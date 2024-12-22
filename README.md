@@ -59,8 +59,8 @@ Global Payment Integration: Expanding payment options for wider accessibility.
 
 Contributors
 -------------
-Rahamatunnisa Shaik
-Lakshmi Sirisha Veturi
+Rahamatunnisa Shaik,
+Lakshmi Sirisha Veturi,
 Under the guidance of Mr. Mukesh Chinta, Assistant Professor, Dept. of CSE, VRSEC.
 
 
